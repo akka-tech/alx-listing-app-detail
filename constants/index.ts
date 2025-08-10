@@ -1,0 +1,5 @@
+interface cardProps {
+
+}
+
+interface buttonProps {}
